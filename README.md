@@ -29,7 +29,7 @@ Inside of package, you must have the following files.
 - **MyVersion:** *(Auto)* Last version installed by software
 - **LastCheck:** *(Auto)* Date of last check
 - **OnlineVersion:** *(Auto)* Last version checked
-- **NeedUserForInstall:** *(true/false)* Need user for install update | if false need to execute as admin
+- **NeedUserForInstall:** *(true/false)* Need user for install update - if false need to execute as admin
 - **AlwaysTop:** *(true/false)* Software always on top
 
 ## Prerequisite
