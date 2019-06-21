@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <StartupTime>1</StartupTime>
   <NextCheckTime>14400</NextCheckTime>
   <LastUpdate>00-00-00 00:00:00</LastUpdate>
   <MyVersion>-1</MyVersion>
   <LastCheck>00-00-00 00:00:00</LastCheck>
   <OnlineVersion>-1</OnlineVersion>
-  <NeedUserForInstall>true</NeedUserForInstall>
-  <AlwaysTop>true</AlwaysTop>
+  <WaitUserForInstall>true</WaitUserForInstall>
+  <AlwaysOnTop>true</AlwaysOnTop>
 </Settings>
