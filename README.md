@@ -40,3 +40,5 @@ May be **Net Framework 3.5**
 
 ## License
 Copyright@2019 Antize all rights reserved.
+
+**En téléchargement vous acceptez la récolte de données non sensible**
