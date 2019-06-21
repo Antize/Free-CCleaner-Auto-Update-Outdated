@@ -2,10 +2,10 @@
 Free automatic updater for [CCleaner](https://www.ccleaner.com), number-one tool for cleaning your PC.
 
 ## What is CCleaner Auto Update ?
-Free version of CCleaner only notifies when a new version is available, so every time an update is available you must manually download and install it. This software does it automatically for you.
+Free version of CCleaner only notifies when a new version is available, so everytime update must be downloaded and installed manually, **CCleaner-Auto-Updater** does it automatically for you.
 
 ## Known issues
-- **If launch as admin Malwarebytes detects as false positive, general problem with C# software.**
+- If **CCleaner-Auto-Updater** is launched as admin Malwarebytes detects as false positive, general problem with C# software.
 
 ## Do you have an issue?
 [Come on Discord:](https://discord.gg/GXZwBeG) https://discord.gg/GXZwBeG
