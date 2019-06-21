@@ -4,24 +4,23 @@ Free automatic updater for [CCleaner](https://www.ccleaner.com), number-one tool
 ## What is CCleaner Auto Update ?
 Free version of CCleaner only notifies when a new version is available, so everytime update must be downloaded and installed manually, **CCleaner-Auto-Updater** does it automatically for you.
 
-## Known issues
-- If **CCleaner-Auto-Updater** is launched as admin Malwarebytes detects as false positive, general problem with C# software.
-
 ## Do you have an issue?
 [Come on Discord:](https://discord.gg/GXZwBeG) https://discord.gg/GXZwBeG
+
+## Known issues
+- If **CCleaner-Auto-Updater** is launched as admin Malwarebytes detects as false positive, general problem with C# software.
 
 ## Before you start
 Please consider buy [CCleaner](https://www.ccleaner.com) if you like it.
 
 ## How do I get started ?
-**For first start even if you have installed the latest version of CCleaner, the software will still install because in Settings.xml "MyVersion" is set to -1.**
+**For first start, even if you have latest version of CCleaner installed, the software will still install because in Settings.xml "MyVersion" is set to -1.**
 
 There are ready-to-use software, just place it in a folder for example on the desktop and run "AddAutoUpdateToStartup.bat" to add software to System Startup.
 
-If the software is moving just restart "AddAutoUpdateToStartup.bat".
+If the software is moved, just restart "AddAutoUpdateToStartup.bat".
 
-Inside of package, you must have the following files.
-
+Inside of package, you must have the following files:
 - **AutoUpdate.exe:** Software
 - **AddAutoUpdateToStartup.bat:** Add software to System Startup
 - **Patcher.xml:** Parameter to download update
@@ -34,11 +33,11 @@ Inside of package, you must have the following files.
 - **MyVersion:** *(Auto)* Last version installed by software
 - **LastCheck:** *(Auto)* Date of last check
 - **OnlineVersion:** *(Auto)* Last version checked
-- **NeedUserForInstall:** *(true/false)* Need user for install update - if false need to execute as admin
-- **AlwaysTop:** *(true/false)* Software always on top
+- **WaitUserForInstall:** *(true/false)* Need user for install update - if false need to execute as admin
+- **AlwaysOnTop:** *(true/false)* Software always on top
 
 ## Prerequisite
-May be **Net Framework 3.5**
+May be **Net Framework 4.0**
 
 ## Authors
 - Antize
