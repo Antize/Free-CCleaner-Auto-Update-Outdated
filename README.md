@@ -14,6 +14,8 @@ Free version of CCleaner only notifies when a new version is available, so every
 Please consider buy [CCleaner](https://www.ccleaner.com) if you like it.
 
 ## How do I get started ?
+**For first start even if you have installed the latest version of CCleaner, the software will still install because in Settings.xml "MyVersion" is set to -1.**
+
 There are ready-to-use software, just place it in a folder for example on the desktop and run "AddAutoUpdateToStartup.bat" to add software to System Startup.
 
 If the software is moving just restart "AddAutoUpdateToStartup.bat".
