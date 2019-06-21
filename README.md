@@ -5,7 +5,7 @@ Free automatic updater for [CCleaner](https://www.ccleaner.com), number-one tool
 Free version of CCleaner only notifies when a new version is available, so every time an update is available you must manually download and install it. This software does it automatically for you.
 
 ## Known issues
-- **If launch as admin Malwarebytes detects as false positive, general problem with C# software**
+- **If launch as admin Malwarebytes detects as false positive, general problem with C# software.**
 
 ## Do you have an issue?
 [Come on Discord:](https://discord.gg/GXZwBeG) https://discord.gg/GXZwBeG
@@ -44,4 +44,4 @@ May be **Net Framework 3.5**
 ## License
 Copyright@2019 Antize all rights reserved.
 
-**En téléchargement vous acceptez la récolte de données non sensible**
+En téléchargement vous acceptez la récolte de données non sensible.
