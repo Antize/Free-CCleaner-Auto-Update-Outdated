@@ -5,4 +5,6 @@
 		<option key="FileName"  	  value="AntizeUpdate.exe" />	
 		<option key="Launch64"  	  value="\\CCleaner\\CCleaner64.exe" />
 		<option key="Launch32"  	  value="\\CCleaner\\CCleaner.exe" />
+		<option key="LaunchName"  	  value="Launch CCleaner" />
 </options>
+
