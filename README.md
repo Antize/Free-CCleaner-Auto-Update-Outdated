@@ -4,6 +4,9 @@ Free automatic updater for [CCleaner](https://www.ccleaner.com), number-one tool
 ## What is CCleaner Auto Update ?
 Free version of CCleaner only notifies when a new version is available, so everytime update must be downloaded and installed manually, **CCleaner-Auto-Updater** does it automatically for you.
 
+## Last Version
+Free CCleaner Auto Update 0.3
+
 ## Do you have an issue?
 [Come on Discord:](https://discord.gg/GXZwBeG) https://discord.gg/GXZwBeG
 
