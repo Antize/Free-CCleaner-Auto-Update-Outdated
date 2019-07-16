@@ -1,2 +1,1 @@
-*.Batchfile linguist-language=C#
-*.Batch linguist-language=C#
+* linguist-language=C#
