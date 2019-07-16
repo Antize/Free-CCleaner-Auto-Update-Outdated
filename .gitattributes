@@ -1,2 +1,3 @@
 *.ps1 linguist-vendored
-*.rb linguist-language=CSharp
+*.rb linguist-language=C#
+*.cs linguist-language=C#
