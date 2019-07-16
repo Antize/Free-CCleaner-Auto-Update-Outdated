@@ -1,0 +1,2 @@
+*.ps1 linguist-vendored
+*.rb linguist-language=CSharp
