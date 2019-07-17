@@ -13,7 +13,7 @@ Free update ccleaner, Free automatic update ccleaner.
 
 ## Known issues
 - If **CCleaner-Auto-Updater** is launched as admin Malwarebytes detects as false positive, general problem with C# software.
-- Windows defender (Smart screen) block for unrecognized app. (Choice Run anyway)
+- Windows defender (Smart screen) Block for unrecognized app. (Choice Run anyway)
 
 ## Before you start
 Please consider buy [CCleaner](https://www.ccleaner.com) if you like it.
