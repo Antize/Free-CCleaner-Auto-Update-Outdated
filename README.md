@@ -2,7 +2,7 @@
 **Free CCleaner Auto Update (Ver.0.5)**
 
 ## Preview
-![Preview](Images/Exemple1.png)
+![Preview](Images/Exemple.png)
 
 ## CCleaner Auto Update 
 Free auto updater for [CCleaner](https://www.ccleaner.com), number-one tool for cleaning your PC.
