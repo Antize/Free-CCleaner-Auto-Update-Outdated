@@ -6,7 +6,7 @@ Free version of CCleaner does not support automatic update and only notifies whe
 Free update ccleaner, Free automatic update ccleaner.
 
 ## Last Version
-**Free CCleaner Auto Update (Ver.0.3)**
+**Free CCleaner Auto Update (Ver.0.5)**
 
 ## Do you have an issue?
 [Come on Discord:](https://discord.gg/GXZwBeG) https://discord.gg/GXZwBeG
