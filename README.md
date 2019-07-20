@@ -15,8 +15,9 @@ Free update ccleaner, Free automatic update ccleaner.
 [Come on Discord:](https://discord.gg/GXZwBeG) https://discord.gg/GXZwBeG
 
 ## Known issues
-- If **CCleaner-Auto-Updater** is launched as admin Malwarebytes detects as false positive, general problem with C# software.
+- If **CCleaner-Auto-Updater** is launched as admin Malwarebytes detect as false positive, general problem with C# software.
 - Windows defender (Smart screen) Block for unrecognized app. (Choice Run anyway)
+- Avast : IDP Generic detect as false positive.
 
 ## Before you start
 Please consider buy [CCleaner](https://www.ccleaner.com) if you like it.
