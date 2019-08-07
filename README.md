@@ -1,5 +1,5 @@
 ## Last Version
-**Free CCleaner Auto Update (Ver.0.6)**
+**Free CCleaner Auto Update (Ver.0.7)**
 
 ## Preview
 ![Preview](Images/Exemple.png)
