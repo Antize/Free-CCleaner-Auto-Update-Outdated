@@ -1,5 +1,5 @@
 ## Last Version
-**Free CCleaner Auto Update (Ver.0.7)**
+**CCleaner Auto Update (Ver.0.7)**
 
 ## Preview
 ![Preview](Images/Exemple.png)
@@ -23,8 +23,6 @@ Free update ccleaner, Free automatic update ccleaner.
 Please consider buy [CCleaner](https://www.ccleaner.com) if you like it.
 
 ## How do I get started ?
-**For first start, even if you have latest version of CCleaner installed, the software will still install because in Settings.xml "MyVersion" is set to -1.**
-
 There are ready-to-use software, just place it in a folder for example on the desktop and run "AddAutoUpdateToStartup.bat" to add software to System Startup.
 
 If the software is moved, just restart "AddAutoUpdateToStartup.bat".
