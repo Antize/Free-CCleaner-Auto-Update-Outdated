@@ -6,6 +6,6 @@
   <MyVersion>-1</MyVersion>
   <LastCheck>00-00-00 00:00:00</LastCheck>
   <OnlineVersion>-1</OnlineVersion>
-  <WaitUserForInstall>true</WaitUserForInstall>
   <AlwaysOnTop>true</AlwaysOnTop>
+  <StartWithWindows>true</StartWithWindows>
 </Settings>
