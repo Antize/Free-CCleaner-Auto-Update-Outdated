@@ -20,16 +20,13 @@ Free update ccleaner, Free automatic update ccleaner.
 - Avast : IDP Generic detect as false positive.
 
 ## Before you start
-Please consider buy [CCleaner](https://www.ccleaner.com) if you like it.
+Consider buy [CCleaner](https://www.ccleaner.com) if you like it.
 
 ## How do I get started ?
-There are ready-to-use software, just place it in a folder for example on the desktop and run "AddAutoUpdateToStartup.bat" to add software to System Startup.
-
-If the software is moved, just restart "AddAutoUpdateToStartup.bat".
+There are ready-to-use software, just place it in a folder for example on the desktop and run "AutoUpdate.exe".
 
 Inside of package, you must have the following files:
 - **AutoUpdate.exe:** Software
-- **AddAutoUpdateToStartup.bat:** Add software to System Startup
 - **Patcher.xml:** Parameter to download update
 - **Settings.xml:** User settings
 
@@ -40,8 +37,8 @@ Inside of package, you must have the following files:
 - **MyVersion:** *(Auto)* Last version installed by software
 - **LastCheck:** *(Auto)* Date of last check
 - **OnlineVersion:** *(Auto)* Last version checked
-- **WaitUserForInstall:** *(true/false)* Need user for install update - if false need to execute as admin
 - **AlwaysOnTop:** *(true/false)* Software always on top
+- **StartWithWindows:** *(true/false)* Start software with Windows
 
 ## Prerequisite
 May be **Net Framework 4.0**
