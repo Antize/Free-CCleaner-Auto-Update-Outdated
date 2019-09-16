@@ -1,5 +1,5 @@
 ## Last Version
-**CCleaner Auto Update (Ver.0.7)**
+**CCleaner Auto Update (Ver.0.8)**
 
 ## Preview
 ![Preview](Images/Exemple.png)
