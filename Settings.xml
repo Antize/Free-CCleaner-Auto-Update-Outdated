@@ -8,4 +8,5 @@
   <OnlineVersion>-1</OnlineVersion>
   <AlwaysOnTop>true</AlwaysOnTop>
   <StartWithWindows>true</StartWithWindows>
+  <AutoStartInstall>true</AutoStartInstall>
 </Settings>

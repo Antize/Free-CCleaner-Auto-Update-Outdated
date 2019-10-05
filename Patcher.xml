@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<options>
-		<option key="WebDownloadLink" 		value="https://www.ccleaner.com/ccleaner/download/standard" />
-        <option key="DownloadFinderStart"  	value="https://download.ccleaner.com/" />
-		<option key="DownloadFinderEnd"  	value="\" />
-		<option key="FileName"  	  		value="AntizeUpdate.exe" />	
-		<option key="Launch64"  	  		value="\\CCleaner\\CCleaner64.exe" />
-		<option key="Launch32"  	  		value="\\CCleaner\\CCleaner.exe" />
-		<option key="LaunchName"  	  		value="Launch CCleaner" />
-</options>
 
+<Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WebDownloadLink>https://www.ccleaner.com/ccleaner/download/standard</WebDownloadLink>
+  <DownloadFinderStart>https://download.ccleaner.com/</DownloadFinderStart>
+  <DownloadFinderEnd>"</DownloadFinderEnd>
+  <FileName>AntizeUpdate.exe</FileName>
+  <Launch64>\CCleaner\CCleaner64.exe</Launch64>
+  <Launch32>\CCleaner\CCleaner.exe</Launch32>
+  <LaunchName>Launch CCleaner</LaunchName>
+  <UseCustomPath>false</UseCustomPath>
+  <CustomPath>C:\Program Files</CustomPath>
+</Settings>
