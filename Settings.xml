@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Settings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <StartupTime>1</StartupTime>
+  <StartupTime>3</StartupTime>
   <NextCheckTime>14400</NextCheckTime>
-  <LastUpdate>00-00-00 00:00:00</LastUpdate>
+  <LastUpdate>n/a</LastUpdate>
   <MyVersion>-1</MyVersion>
-  <LastCheck>00-00-00 00:00:00</LastCheck>
+  <LastCheck>n/a</LastCheck>
   <OnlineVersion>-1</OnlineVersion>
   <AlwaysOnTop>true</AlwaysOnTop>
   <StartWithWindows>true</StartWithWindows>
