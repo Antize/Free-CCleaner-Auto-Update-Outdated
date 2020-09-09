@@ -11,9 +11,6 @@ Free version of CCleaner does not support automatic update and only notifies whe
 
 Free update ccleaner, Free automatic update ccleaner.
 
-## Do you have an issue?
-[Come on Discord:](https://discord.gg/GXZwBeG) https://discord.gg/GXZwBeG
-
 ## Known issues
 - If **CCleaner-Auto-Updater** is launched as admin Malwarebytes detect as false positive, general problem with C# software.
 - Windows defender (Smart screen) Block for unrecognized app. (Choice Run anyway)
